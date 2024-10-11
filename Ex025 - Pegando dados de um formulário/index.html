@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dados de formulário</title>
+    <link rel="stylesheet" href="estilo.css">
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet'>
+</head>
+<body>
+    <div>
+        <h1>Contando de 0 até um número positivo qualquer<h1>
+    </div>
+    
+    <p>Escolha o limite final para a contagem a partir do 0 (digite apenas números positivos)</p>
+    
+    <label>
+        Valor final: <input type="number" style="font-family: Arial; font-size: 16px;" placeholder="Apenas positivos" min="1" step="1" name="valor" id="valor">    
+    </label>
+
+    <input type="button" style="width: 62.03; height: 32px; background: #008000; padding: 5px; color: white; font-size: 16px;" value="Contar" onclick="contagem()">
+
+    <div id="resultado">
+        Preencha os dados acima e aperte o botão.
+    </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>

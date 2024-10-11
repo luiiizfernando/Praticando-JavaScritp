@@ -1,0 +1,31 @@
+h1
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 32px;
+    margin: 21.44px 0px;
+    font-weight: normal;
+}
+
+.botao
+{
+    width: 170.69px;
+    height: 82px;
+    font-size: 16px;
+    font-family: Arial;
+    padding: 30px;
+}
+
+#calculando
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+    margin: 21.44px 0px;
+    font-weight: normal;
+}
+
+#resultado
+{
+    font-family: arial;
+    font-size: 16px;
+    margin: 16px 0px;
+}

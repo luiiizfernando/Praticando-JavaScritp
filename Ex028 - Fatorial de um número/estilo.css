@@ -1,0 +1,43 @@
+h1
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 32px;
+    margin: 21.44px 0px;
+    font-weight: normal;
+}
+
+h2
+{
+    font-family: 'Pacifico', cursive;
+    font-size: 24px;
+    margin: 21.44px 0px;
+    font-weight: normal; 
+}
+
+p
+{
+    font-family: Arial;
+    font-size: 16px;
+}
+
+label
+{
+    font-family: Arial;
+    font-size: 16px;
+}
+
+.botao
+{
+    width: 170.69px;
+    height: 82px;
+    font-size: 16px;
+    font-family: Arial;
+    padding: 30px;
+}
+
+#resultado
+{
+    font-family: arial;
+    font-size: 16px;
+    margin: 16px 0px;
+}
