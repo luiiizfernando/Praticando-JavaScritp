@@ -27,7 +27,7 @@
       { "src": "/Ex025 - Pegando dados de um formulário", "dest": "/Ex025 - Pegando dados de um formulário/index.html" },
       { "src": "/Ex026 - Contagem mais inteligente", "dest": "/Ex026 - Contagem mais inteligente/index.html" },
       { "src": "/Ex027 - Tabuada", "dest": "/Ex027 - Tabuada/index.html" },
-      { "src": "/Ex028 - Fatorial de um número", "dest": "/Ex028 - Fatorial de um número/index.html" }
-      { "src": "/Programa de soma", "dest": "/Programa de soma/index.html" }    
+      { "src": "/Ex028 - Fatorial de um número", "dest": "/Ex028 - Fatorial de um número/index.html" },
+      { "src": "/Programa de soma", "dest": "/Programa de soma/index.html" } 
     ]
   }
