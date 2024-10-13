@@ -1,7 +1,7 @@
 {
   "routes": [
     { "src": "/Ex001 - Olá, mundo!", "dest": "/Praticando-JavaScritp/Ex001 - Olá, mundo!/index.html" },
-    { "src": "/Ex002", "dest": "/Praticando-JavaScript/Ex002 - Inteargindo com um botão/index.html" },
+    { "src": "/Ex002", "dest": "/Ex002%20-%20Interagindo%20com%20um%20bot%C3%A3o/index.html" },
     { "src": "/Ex003 - Usando o prompt() e o alert() juntos", "dest": "/Praticando-JavaScritp/Ex003 - Usando o prompt() e o alert() juntos/index.html" },
     { "src": "/Ex004 - Interagindo com partes do HTML (DOM)", "dest": "/Praticando-JavaScritp/Ex004 - Interagindo com partes do HTML (DOM)/index.html" },
     { "src": "/Ex005 - Manipulando números", "dest": "/Praticando-JavaScritp/Ex005 - Manipulando números/index.html" },
